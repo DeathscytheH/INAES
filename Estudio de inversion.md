@@ -6,6 +6,22 @@ Estudio de inversion.md
 * letra arial, tamaño 11, interlineado sencillo.
 * Mas anexos.
 
+#### Requisitos
+
+Entregar original de:
+
+* Solicitud de apoyo.
+* Estudio de inversion que incluya los documentos establecidos en los terminos de referencia.
+* Carta bajo protesta de decir verdad en donde manifieste que no ha recibido un apoyo por parte de otra dependencia o entidad del gobierno federal para los mismos conceptos solicitados.
+* Carta bajo protesta de decir la verdad en donde manifieste que los requerimientos adicionales para la ejecucion y operacion del proyecto,  no solicitados al inaes, seran provistos por el solicitante.
+
+Entregar copia simple y original para cotejo de:
+
+* Inscripcion en el RFC del representante social en caso de grupos sociales.
+* CURP e ife de cada integrante
+* Acta de integracion del grupo social
+* Acreditacion de las facultades del del representante social
+
 #### 1. Resumen ejecutivo.
 
 * Nombre del osse.
