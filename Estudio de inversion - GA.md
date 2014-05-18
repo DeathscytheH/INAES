@@ -10,17 +10,17 @@ Estudio de inversion.md
 
 Entregar original de:
 
-* Solicitud de apoyo.
+* Solicitud de apoyo. - Lista
 * Estudio de inversion que incluya los documentos establecidos en los terminos de referencia.
-* Carta bajo protesta de decir verdad en donde manifieste que no ha recibido un apoyo por parte de otra dependencia o entidad del gobierno federal para los mismos conceptos solicitados.
-* Carta bajo protesta de decir la verdad en donde manifieste que los requerimientos adicionales para la ejecucion y operacion del proyecto,  no solicitados al inaes, seran provistos por el solicitante.
+* Carta bajo protesta de decir verdad en donde manifieste que no ha recibido un apoyo por parte de otra dependencia o entidad del gobierno federal para los mismos conceptos solicitados. - Lista
+* Carta bajo protesta de decir la verdad en donde manifieste que los requerimientos adicionales para la ejecucion y operacion del proyecto,  no solicitados al inaes, seran provistos por el solicitante. - Lista
 
 Entregar copia simple y original para cotejo de:
 
-* Inscripcion en el RFC del representante social en caso de grupos sociales.
-* CURP e ife de cada integrante
-* Acta de integracion del grupo social
-* Acreditacion de las facultades del del representante social
+* Inscripcion en el RFC del representante social en caso de grupos sociales. -Imagen
+* CURP e ife de cada integrante -Falta neto
+* Acta de integracion del grupo social -Falta neto y gurza de firmar
+* Acreditacion de las facultades del del representante social -Falta neto y gurza de firmar
 
 #### 1. Resumen ejecutivo.
 
@@ -48,7 +48,7 @@ Entregar copia simple y original para cotejo de:
 
 * Antecedentes de la idea de inversion - Como? Por qué? Para qué?
 
-> Uno de nuestros integrantes del grupo social, en una reunion, nos comenta que le propuecieron el diseño de un software de sistemas de planificación de recursos empresariales (ERP por sus siglas en ingles). Un proyecto bastante grande que el solo no podria realizar, por lo cual estaba buscando gente con la cual colaborar. Despues de hablar sobre el proyecto, sus alcances y limitantes, surgimos los cinco integrantes. 
+> Uno de nuestros integrantes del grupo social, en una reunion, nos comenta que le propuecieron el diseño de un software de sistemas de planificación de recursos empresariales (ERP por sus siglas en ingles). Un proyecto bastante grande que el solo no podria realizar, por lo cual estaba buscando gente con la cual colaborar. Despues de hablar sobre el proyecto, sus alcances y limitantes, surgimos los cinco integrantes.
 
 * Aspectos mas importantes del proyecto productivo que justifican su implementacion.
 
